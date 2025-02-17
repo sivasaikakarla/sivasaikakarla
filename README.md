@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sivasai</h1>
-<h3 align="center">A passionate Data Scientist/AI Engineer from India</h3>
+<h3 align="center">Passionate about Data Science,AI.Student from India</h3>
 
-- 🔭 I’m currently working on **Intelligent transportation System**
+- 🔭 I’m currently working on **PyTorch**
 
 - 🌱 I’m currently learning **Opencv,Transformers**
 
